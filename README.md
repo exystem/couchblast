@@ -1,2 +1,4 @@
-# couchblast
-A gaming system für all platforms...
+# CouchBlast
+### free and independent gaming platform
+
+content coming soon...
