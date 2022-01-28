@@ -1,8 +1,8 @@
 <CouchBlast>
   <Games title="Exystem Games">
     <Game id="de.exystem.example" name="Example Game" icon="https://.....png" type="Action|Adventure">
-      <Package platform="linux" binary="ExampleGame" version="1.0">https://.....zip</Package>
-      <Package platform="windows" binary="ExampleGame.exe" version="1.0">https://.....zip</Package>
+      <Package platform="linux" binary="ExampleGame" version="1.0" ram="2" vram="2" cpu="1" disc="12">https://.....zip</Package>
+      <Package platform="windows" binary="ExampleGame.exe" version="1.0" version="1.0" ram="2" vram="2" cpu="1" disc="12">https://.....zip</Package>
       <Screenshot>https://.....jpg</Screenshot>
       <Screenshot>https://.....jpg</Screenshot>
       <Screenshot>https://.....jpg</Screenshot>
