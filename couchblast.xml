@@ -1,5 +1,6 @@
 <CouchBlast>
   <Lists>
+    <!-- Exystem Games -->
     <List>https://raw.githubusercontent.com/exystem/couchblast/main/exystemgames.xml</List>
   </Lists>
 </CouchBlast>
