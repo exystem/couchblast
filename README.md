@@ -1,4 +1,3 @@
-# CouchBlast
-### free and independent gaming platform
+# IN DEVELOPMENT - VISIT LATER AND STAY TUNED!
 
 content coming soon...
