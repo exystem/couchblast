@@ -1,12 +1,12 @@
 <CouchBlast title="Exystem Games">
   <Games>
-    <Game id="de.exystem.example" name="Example Game" icon="https://.....png" type="Action|Adventure">
-      <Package platform="linux" executable="ExampleGame" version="1.0" ram="any" vram="any" cpu="any" cores="" disc="5gb">https://.....zip</Package>
-      <Package platform="windows" executable="ExampleGame.exe" version="1.0" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="12gb">https://.....zip</Package>
-      <Screenshot>https://.....jpg</Screenshot>
-      <Screenshot>https://.....jpg</Screenshot>
-      <Screenshot>https://.....jpg</Screenshot>
-      <Description>Example description...</Description>
+    <Game id="de.exystem.testzombies" name="Test Zombies" icon="https://exystem.eu/wp-content/uploads/TestZombies_icon.png" type="Action|Adventure" license="default">
+      <Package platform="linux" executable="Zombies.x86_64" version="1.0" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
+      <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.0" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
+      <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot1.jpg</Screenshot>
+      <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot2.jpg</Screenshot>
+      <Description>This is a test game.</Description>
+      <Description>It's about zombies... :)</Description>
     </Game>
   </Games>
 </CouchBlast>
