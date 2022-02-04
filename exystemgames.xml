@@ -1,8 +1,8 @@
 <CouchBlast title="Exystem Games">
   <Games>
     <Game id="de.exystem.testzombies" name="Test Zombies" icon="https://exystem.eu/wp-content/uploads/TestZombies_icon.png" type="Action|Adventure" publisher="Exystem" license="default">
-      <Package platform="linux" executable="Zombies.x86_64" version="1.0" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
-      <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.0" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
+      <Package platform="linux" executable="Zombies.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
+      <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
       <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot1.jpg</Screenshot>
       <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot2.jpg</Screenshot>
       <Description>This is a test game.</Description>
