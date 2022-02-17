@@ -1,0 +1,13 @@
+<List title="Example Games">
+  
+  <Game id="com.examplecompany.examplegame" name="Example Game" publisher="Example Company">
+    <!-- Icon should be 128 x 128 pixels (png or jpg) -->
+    <Icon>https://....png</Icon>
+    <!-- URL to the game xml -->
+    <Manifest>https://.../ExampleGameManifest.xml</Manifest>
+  </Game>
+  
+  <!-- You can add other lists that will be loaded with your list -->
+  <LinkedList>https://....xml</LinkedList>
+  
+</List>
