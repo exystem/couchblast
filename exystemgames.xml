@@ -1,23 +1,17 @@
 <List title="Exystem Games">
   
-    <Game id="de.exystem.testzombies" name="Test Zombies" publisher="Exystem" genre="Action|Adventure" platform="windows|linux">
+  <Game id="de.exystem.testzombies" name="Test Zombies" publisher="Exystem" genre="Action|Adventure" platform="windows|linux">
     <!-- Icon should be 128 x 128 pixels (png or jpg) -->
     <Icon>https://exystem.eu/wp-content/uploads/TestZombies_icon.png</Icon>
     <!-- URL to the game xml -->
-    <Manifest>https://exystem.eu/wp-content/uploads/TestZombies_manifest.xml</Manifest>
+    <Manifest>https://raw.githubusercontent.com/exystem/couchblastgames/main/zombies.xml</Manifest>
   </Game>
   
-  <!--
-  <Games>
-    <Game id="de.exystem.testzombies" name="Test Zombies" icon="https://exystem.eu/wp-content/uploads/TestZombies_icon.png" type="Action|Adventure" publisher="Exystem" website="https://exystem.eu" license="default">
-      <Package platform="linux" executable="Zombies.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
-      <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
-      <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot1.jpg</Screenshot>
-      <Screenshot>https://exystem.eu/wp-content/uploads/TestZombies_screenshot2.jpg</Screenshot>
-      <Description>This is a test game.</Description>
-      <Description>It's about zombies... :)</Description>
-    </Game>
-  </Games>
-  -->
+  <Game id="de.exystem.wingsandcannons" name="Wing &amp; Cannons" publisher="Exystem" genre="Action|Simulation" platform="windows|linux">
+    <!-- Icon should be 128 x 128 pixels (png or jpg) -->
+    <Icon>https://exystem.eu/wp-content/uploads/TestZombies_icon.png</Icon>
+    <!-- URL to the game xml -->
+    <Manifest>https://raw.githubusercontent.com/exystem/couchblastgames/main/wingsandcannons.xml</Manifest>
+  </Game>
   
 </List>
