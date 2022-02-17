@@ -1,0 +1,24 @@
+<Game id="de.exystem.testzombies">
+  
+  <Name>Example Game</Name>
+  <Icon>https://.....png</Icon>
+  
+  <Genre>Adventure</Genre>
+  <Genre>Action</Genre>
+  
+  <Publisher>Exystem</Publisher>
+  <Address>Exystem UG (haftungsbeschränkt), Rosenheimer Landstr. 21a, DE-85649 Brunnthal, Germany</Address>
+  <Support>support@exystem.de</Support>
+  <Website>https://..</Website>
+  
+  <License>default</License>
+  
+  <Package platform="linux" executable="Zombies.x86_64" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_linux.zip</Package>
+  <Package platform="windows" executable="CouchBlast Zombie Apokalypse.exe" version="1.1" ram="2gb" vram="500mb" cpu="2.5ghz" cores="2" disc="5gb">https://exystem.eu/wp-content/uploads/TestZombies_windows.zip</Package>
+  
+  <Screenshot>https://.....jpg</Screenshot>
+  <Screenshot>https://.....jpg</Screenshot>
+  
+  <Description>This is an example.</Description>
+  <Description>It's just for explanation... :)</Description>
+</Game>
