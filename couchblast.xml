@@ -1,6 +1,6 @@
-<CouchBlast title="CouchCraft Official Lists">
-  <Lists>
+<List title="CouchCraft Official Lists">
+  
     <!-- Exystem Games -->
-    <List>https://raw.githubusercontent.com/exystem/couchblast/main/exystemgames.xml</List>
-  </Lists>
-</CouchBlast>
+    <LinkedList>https://raw.githubusercontent.com/exystem/couchblast/main/exystemgames.xml</LinkedList>
+  
+</List>
