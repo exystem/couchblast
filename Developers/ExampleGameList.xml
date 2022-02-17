@@ -1,6 +1,6 @@
 <List title="Example Games">
   
-  <Game id="com.examplecompany.examplegame" name="Example Game" publisher="Example Company">
+  <Game id="com.examplecompany.examplegame" name="Example Game" publisher="Example Company" genre="Action|Adventure">
     <!-- Icon should be 128 x 128 pixels (png or jpg) -->
     <Icon>https://....png</Icon>
     <!-- URL to the game xml -->
