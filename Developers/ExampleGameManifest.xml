@@ -2,6 +2,7 @@
   
   <!-- General Information -->
   <Name>Example Game</Name>
+  <!-- Icon should be 512 x 512 pixels -->
   <Icon>https://.....png</Icon>
   
   <Genre>Adventure</Genre>
