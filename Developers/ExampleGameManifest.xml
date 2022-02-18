@@ -2,11 +2,16 @@
   
   <!-- General Information -->
   <Name>Example Game</Name>
-  <!-- Icon should be 512 x 512 pixels -->
+  <!-- Icon should be 512 x 512 pixels (png or jpg) -->
   <Icon>https://.....png</Icon>
   
   <Genre>Adventure</Genre>
   <Genre>Action</Genre>
+  
+  <!-- Minimum and maximum number of players -->
+  <Players>1-4</Players>
+  <!-- if your game requires additional hardware (optional) -->
+  <RequiredHardware>Mouse, Keyboard</RequiredHardware>
   
   <!-- Publisher Information / Legal notice -->
   <Publisher>Example Company</Publisher>
